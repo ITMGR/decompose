@@ -1,9 +1,18 @@
 # decompose
+
+## ⚠️ Deprecated ⚠️
+
+This project has been **deprecated** and has not been kept up to date with
+Docker Compose updates. I will be removing it in the future, unless I can find
+someone to make it work and get it up to date.
+
+
+## Installation
+
 Convert Docker Compose YAML into Docker commands.
 
 This package is still in flux. And has bugs.
 
-## Installation
 Install or upgrade Decompose with this command.
 ```
 go get -u github.com/variadico/decompose/cmd/decompose
